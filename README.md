@@ -1,5 +1,5 @@
 ## Hi there 👋
-![snake gif](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
+<img src="snake.svg" width="400">
 
 
 <!--
