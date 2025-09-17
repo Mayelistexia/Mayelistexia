@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="snake.svg" width="400">
+<img src="snake.gif" width="400">
 
 
 <!--
