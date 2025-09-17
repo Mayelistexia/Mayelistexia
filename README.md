@@ -1,5 +1,6 @@
 ## Hi there 👋
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00FFCC&center=true&vCenter=true&width=435&lines=MAYBEEEE" alt="Typing SVG" />
+![snake gif](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--
 **Mayelistexia/Mayelistexia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
