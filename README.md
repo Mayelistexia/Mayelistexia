@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00FFCC&center=true&vCenter=true&width=435&lines=JUST+TESTING" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00FFCC&center=true&vCenter=true&width=435&lines=MAYBEEEE" alt="Typing SVG" />
 
 <!--
 **Mayelistexia/Mayelistexia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
